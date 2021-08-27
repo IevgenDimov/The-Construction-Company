@@ -2,10 +2,10 @@ import React from 'react';
 import GitHubButton from 'react-github-btn';
 
 const GithubButton = () => (
-  <>
+ <>
     <GitHubButton
       className="github-button"
-      href="https://github.com/cobidev/gatsby-simplefolio/fork"
+      href=""
       data-icon="octicon-repo-forked"
       data-size="large"
       data-show-count="true"
@@ -15,13 +15,13 @@ const GithubButton = () => (
     </GitHubButton>
     <GitHubButton
       className="github-button"
-      href="https://github.com/cobidev/gatsby-simplefolio"
+      href=""
       data-icon="octicon-star"
       data-size="large"
       data-show-count="true"
       aria-label="Star cobidev/gatsby-simplefolio on GitHub"
     >
-      Star
+      Patric
     </GitHubButton>
   </>
 );

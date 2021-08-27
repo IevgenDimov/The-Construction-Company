@@ -37,18 +37,18 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project2.jpg',
+    title: 'Hyatt Regency in Kansas City',
+    info: 'I was hired to build a hotel so I build a hotel, no one said anything about people adding extra weight to the upper floors!',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'project3.jpg',
+    title: 'The Great Fire Of Rome',
+    info: 'Before I became a bridge builder I was a fire inspector in Ancient Rome...Lets just say that while Rome wasn\'t built in a day, I burned in only a couple of hours. I would like to once again apoligize to the early Christians, Nero seemed very upset and I didn\'t want to rock the boat.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
